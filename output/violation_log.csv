@@ -1,0 +1,539 @@
+Frame,Violation Type,Details
+1,No Helmet,Helmet not detected
+2,No Helmet,Helmet not detected
+3,Low OCR Confidence,OCR Confidence: 0.03
+3,Invalid Plate Format,3
+3,No Helmet,Helmet not detected
+4,Low OCR Confidence,OCR Confidence: 0.02
+4,Invalid Plate Format,2
+4,No Helmet,Helmet not detected
+5,No Helmet,Helmet not detected
+6,Low OCR Confidence,OCR Confidence: 0.07
+6,Invalid Plate Format,43
+6,No Helmet,Helmet not detected
+6,No Helmet,Helmet not detected
+7,Low OCR Confidence,OCR Confidence: 0.01
+7,Invalid Plate Format,07
+7,Low OCR Confidence,OCR Confidence: 0.08
+7,Invalid Plate Format,Vc
+7,No Helmet,Helmet not detected
+8,Invalid Plate Format,C
+8,Low OCR Confidence,OCR Confidence: 0.01
+8,Invalid Plate Format,be
+8,No Helmet,Helmet not detected
+9,Low OCR Confidence,OCR Confidence: 0.04
+9,Invalid Plate Format,K4e
+9,No Helmet,Helmet not detected
+10,No Helmet,Helmet not detected
+11,Low OCR Confidence,OCR Confidence: 0.12
+11,Invalid Plate Format,Io
+11,Low OCR Confidence,OCR Confidence: 0.08
+11,Invalid Plate Format,EZ
+11,No Helmet,Helmet not detected
+12,Low OCR Confidence,OCR Confidence: 0.00
+12,Invalid Plate Format,Ad
+12,No Helmet,Helmet not detected
+13,No Helmet,Helmet not detected
+13,No Helmet,Helmet not detected
+14,Low OCR Confidence,OCR Confidence: 0.10
+14,Invalid Plate Format,13
+14,No Helmet,Helmet not detected
+15,Invalid Plate Format,6
+15,No Helmet,Helmet not detected
+16,Invalid Plate Format,6
+16,No Helmet,Helmet not detected
+17,No Helmet,Helmet not detected
+18,Low OCR Confidence,OCR Confidence: 0.21
+18,Invalid Plate Format,677
+18,No Helmet,Helmet not detected
+19,Low OCR Confidence,OCR Confidence: 0.08
+19,Invalid Plate Format,DT
+19,No Helmet,Helmet not detected
+20,No Helmet,Helmet not detected
+21,Low OCR Confidence,OCR Confidence: 0.05
+21,Invalid Plate Format,tt
+21,No Helmet,Helmet not detected
+22,No Helmet,Helmet not detected
+23,No Helmet,Helmet not detected
+24,No Helmet,Helmet not detected
+25,Low OCR Confidence,OCR Confidence: 0.25
+25,Invalid Plate Format,4
+26,Low OCR Confidence,OCR Confidence: 0.30
+26,Invalid Plate Format,CI
+26,No Helmet,Helmet not detected
+27,Low OCR Confidence,OCR Confidence: 0.00
+27,Invalid Plate Format,Iat
+27,No Helmet,Helmet not detected
+28,No Helmet,Helmet not detected
+29,Low OCR Confidence,OCR Confidence: 0.00
+29,Invalid Plate Format,Ken
+30,Low OCR Confidence,OCR Confidence: 0.21
+30,Invalid Plate Format,L
+30,No Helmet,Helmet not detected
+31,Low OCR Confidence,OCR Confidence: 0.00
+31,Invalid Plate Format,"Jepn"""
+31,No Helmet,Helmet not detected
+32,Low OCR Confidence,OCR Confidence: 0.12
+32,Invalid Plate Format,9
+32,No Helmet,Helmet not detected
+33,Low OCR Confidence,OCR Confidence: 0.12
+33,Invalid Plate Format,DI
+34,Low OCR Confidence,OCR Confidence: 0.15
+34,Invalid Plate Format,35
+34,No Helmet,Helmet not detected
+35,Low OCR Confidence,OCR Confidence: 0.01
+35,Invalid Plate Format,FlTP
+35,Invalid Plate Format,0
+35,No Helmet,Helmet not detected
+37,Low OCR Confidence,OCR Confidence: 0.11
+37,Invalid Plate Format,6x3
+38,Low OCR Confidence,OCR Confidence: 0.08
+38,Invalid Plate Format,67
+38,No Helmet,Helmet not detected
+40,No Helmet,Helmet not detected
+40,No Helmet,Helmet not detected
+41,Low OCR Confidence,OCR Confidence: 0.06
+41,Invalid Plate Format,6ZZ
+41,No Helmet,Helmet not detected
+41,No Helmet,Helmet not detected
+41,No Helmet,Helmet not detected
+42,No Helmet,Helmet not detected
+42,No Helmet,Helmet not detected
+43,Invalid Plate Format,D
+43,No Helmet,Helmet not detected
+44,No Helmet,Helmet not detected
+44,No Helmet,Helmet not detected
+44,No Helmet,Helmet not detected
+45,Invalid Plate Format,L
+45,No Helmet,Helmet not detected
+45,No Helmet,Helmet not detected
+46,Low OCR Confidence,OCR Confidence: 0.07
+46,Invalid Plate Format,677
+46,No Helmet,Helmet not detected
+46,No Helmet,Helmet not detected
+46,No Helmet,Helmet not detected
+47,Low OCR Confidence,OCR Confidence: 0.22
+47,Invalid Plate Format,Do
+47,No Helmet,Helmet not detected
+47,No Helmet,Helmet not detected
+47,No Helmet,Helmet not detected
+47,No Helmet,Helmet not detected
+49,Low OCR Confidence,OCR Confidence: 0.01
+49,Invalid Plate Format,Dotp
+49,No Helmet,Helmet not detected
+50,Low OCR Confidence,OCR Confidence: 0.04
+50,Invalid Plate Format,D4t
+50,No Helmet,Helmet not detected
+51,Low OCR Confidence,OCR Confidence: 0.16
+51,Invalid Plate Format,E
+51,No Helmet,Helmet not detected
+51,No Helmet,Helmet not detected
+52,Low OCR Confidence,OCR Confidence: 0.01
+52,Invalid Plate Format,Dil 
+52,Low OCR Confidence,OCR Confidence: 0.04
+52,No Helmet,Helmet not detected
+52,No Helmet,Helmet not detected
+53,Low OCR Confidence,OCR Confidence: 0.11
+53,Invalid Plate Format,Od
+53,Low OCR Confidence,OCR Confidence: 0.03
+53,Invalid Plate Format,474
+53,Invalid Plate Format,0
+53,No Helmet,Helmet not detected
+53,No Helmet,Helmet not detected
+54,Low OCR Confidence,OCR Confidence: 0.32
+54,Invalid Plate Format,IT
+54,No Helmet,Helmet not detected
+54,No Helmet,Helmet not detected
+55,Low OCR Confidence,OCR Confidence: 0.02
+55,Invalid Plate Format,IID 
+55,Low OCR Confidence,OCR Confidence: 0.25
+55,Invalid Plate Format,0
+55,No Helmet,Helmet not detected
+55,No Helmet,Helmet not detected
+55,No Helmet,Helmet not detected
+56,Low OCR Confidence,OCR Confidence: 0.00
+56,Invalid Plate Format,U
+56,Invalid Plate Format,1
+56,Low OCR Confidence,OCR Confidence: 0.28
+56,No Helmet,Helmet not detected
+57,Low OCR Confidence,OCR Confidence: 0.22
+57,No Helmet,Helmet not detected
+57,No Helmet,Helmet not detected
+58,Low OCR Confidence,OCR Confidence: 0.31
+58,Invalid Plate Format,2
+58,Low OCR Confidence,OCR Confidence: 0.30
+58,Invalid Plate Format,UII
+58,Invalid Plate Format,4
+58,No Helmet,Helmet not detected
+58,No Helmet,Helmet not detected
+59,Low OCR Confidence,OCR Confidence: 0.00
+59,Invalid Plate Format,Lennl
+59,Low OCR Confidence,OCR Confidence: 0.01
+59,Invalid Plate Format,DT
+59,No Helmet,Helmet not detected
+59,No Helmet,Helmet not detected
+60,Low OCR Confidence,OCR Confidence: 0.13
+60,Invalid Plate Format,CT
+60,Low OCR Confidence,OCR Confidence: 0.02
+60,Invalid Plate Format,E
+60,Low OCR Confidence,OCR Confidence: 0.02
+60,Invalid Plate Format,WX
+60,Invalid Plate Format,0
+60,No Helmet,Helmet not detected
+60,No Helmet,Helmet not detected
+61,Low OCR Confidence,OCR Confidence: 0.04
+61,Invalid Plate Format,DC
+61,Invalid Plate Format,3
+61,No Helmet,Helmet not detected
+61,No Helmet,Helmet not detected
+62,Low OCR Confidence,OCR Confidence: 0.12
+62,Invalid Plate Format,E
+63,Low OCR Confidence,OCR Confidence: 0.00
+63,Invalid Plate Format,Joody
+63,Invalid Plate Format,E
+63,Low OCR Confidence,OCR Confidence: 0.07
+63,Invalid Plate Format,C7
+64,Invalid Plate Format,0
+65,Low OCR Confidence,OCR Confidence: 0.00
+65,Invalid Plate Format,Ene
+65,Low OCR Confidence,OCR Confidence: 0.06
+65,Invalid Plate Format,C
+65,Invalid Plate Format,3
+65,Invalid Plate Format,6
+66,Low OCR Confidence,OCR Confidence: 0.15
+66,Invalid Plate Format,LC
+67,Low OCR Confidence,OCR Confidence: 0.02
+67,Invalid Plate Format,Diucl
+68,Low OCR Confidence,OCR Confidence: 0.01
+68,Invalid Plate Format,Ia
+70,Invalid Plate Format,E
+70,Low OCR Confidence,OCR Confidence: 0.02
+70,Invalid Plate Format,6tS
+71,Invalid Plate Format,@
+72,Low OCR Confidence,OCR Confidence: 0.28
+72,Invalid Plate Format,0
+72,Low OCR Confidence,OCR Confidence: 0.11
+72,Invalid Plate Format,{
+73,Low OCR Confidence,OCR Confidence: 0.28
+73,Invalid Plate Format,1
+73,Low OCR Confidence,OCR Confidence: 0.09
+73,Invalid Plate Format,6
+74,Invalid Plate Format,2
+74,No Helmet,Helmet not detected
+75,Low OCR Confidence,OCR Confidence: 0.01
+75,Invalid Plate Format,Ad=
+76,Low OCR Confidence,OCR Confidence: 0.02
+76,Invalid Plate Format,L
+76,Low OCR Confidence,OCR Confidence: 0.03
+76,Invalid Plate Format,ALF
+77,Invalid Plate Format,E
+79,Invalid Plate Format,5
+80,Low OCR Confidence,OCR Confidence: 0.03
+80,Invalid Plate Format,{
+81,Low OCR Confidence,OCR Confidence: 0.13
+81,Invalid Plate Format,F
+83,Low OCR Confidence,OCR Confidence: 0.05
+83,Invalid Plate Format,Ce
+83,Low OCR Confidence,OCR Confidence: 0.07
+83,Invalid Plate Format,0
+84,Low OCR Confidence,OCR Confidence: 0.24
+84,Invalid Plate Format,2
+85,Low OCR Confidence,OCR Confidence: 0.12
+85,Invalid Plate Format,0
+86,Low OCR Confidence,OCR Confidence: 0.13
+86,Invalid Plate Format,@_
+87,Low OCR Confidence,OCR Confidence: 0.11
+87,Invalid Plate Format,E
+88,Low OCR Confidence,OCR Confidence: 0.22
+88,Invalid Plate Format,1
+90,Invalid Plate Format,@
+98,Low OCR Confidence,OCR Confidence: 0.02
+98,Invalid Plate Format,LC
+101,Low OCR Confidence,OCR Confidence: 0.31
+101,Invalid Plate Format,MonrtRan:
+103,Low OCR Confidence,OCR Confidence: 0.33
+103,Invalid Plate Format,"KRISHN """
+105,Low OCR Confidence,OCR Confidence: 0.26
+105,Invalid Plate Format,KRISk
+106,Low OCR Confidence,OCR Confidence: 0.04
+106,Invalid Plate Format,F4
+107,Low OCR Confidence,OCR Confidence: 0.24
+107,Invalid Plate Format,LC
+108,Invalid Plate Format,KRL
+109,Low OCR Confidence,OCR Confidence: 0.02
+109,Invalid Plate Format,4
+109,Low OCR Confidence,OCR Confidence: 0.05
+109,Invalid Plate Format,#8
+110,Low OCR Confidence,OCR Confidence: 0.24
+110,Invalid Plate Format,93
+111,Low OCR Confidence,OCR Confidence: 0.07
+111,Invalid Plate Format,LYc
+112,Low OCR Confidence,OCR Confidence: 0.14
+112,Invalid Plate Format,CIU
+113,Low OCR Confidence,OCR Confidence: 0.02
+113,Invalid Plate Format,Laou
+114,Low OCR Confidence,OCR Confidence: 0.09
+114,Invalid Plate Format,LC
+115,Low OCR Confidence,OCR Confidence: 0.02
+115,Invalid Plate Format,Itu
+116,Low OCR Confidence,OCR Confidence: 0.08
+116,Invalid Plate Format,Lx
+117,Low OCR Confidence,OCR Confidence: 0.02
+117,Invalid Plate Format,ict
+118,Low OCR Confidence,OCR Confidence: 0.07
+118,Invalid Plate Format,Mt
+119,Low OCR Confidence,OCR Confidence: 0.03
+119,Invalid Plate Format,Tol
+120,Low OCR Confidence,OCR Confidence: 0.01
+120,Invalid Plate Format,MI
+120,Low OCR Confidence,OCR Confidence: 0.08
+120,Invalid Plate Format,6
+120,Invalid Plate Format,W
+121,Low OCR Confidence,OCR Confidence: 0.02
+121,Invalid Plate Format,IotD
+121,Low OCR Confidence,OCR Confidence: 0.24
+121,Invalid Plate Format,D
+121,Low OCR Confidence,OCR Confidence: 0.37
+121,Invalid Plate Format,U
+122,Low OCR Confidence,OCR Confidence: 0.06
+122,Invalid Plate Format,II
+122,Low OCR Confidence,OCR Confidence: 0.16
+122,Invalid Plate Format,N
+123,Low OCR Confidence,OCR Confidence: 0.02
+123,Invalid Plate Format,Id
+124,Low OCR Confidence,OCR Confidence: 0.02
+124,Invalid Plate Format,Irmi
+125,Low OCR Confidence,OCR Confidence: 0.01
+125,Invalid Plate Format,Tetr
+126,Low OCR Confidence,OCR Confidence: 0.01
+126,Invalid Plate Format,Men
+127,Low OCR Confidence,OCR Confidence: 0.03
+127,Invalid Plate Format,Intau
+127,Low OCR Confidence,OCR Confidence: 0.01
+127,Invalid Plate Format,Jt
+128,Low OCR Confidence,OCR Confidence: 0.36
+128,Invalid Plate Format,MI
+129,Low OCR Confidence,OCR Confidence: 0.05
+129,Invalid Plate Format,Luurow
+130,Low OCR Confidence,OCR Confidence: 0.36
+130,Invalid Plate Format,u
+131,Low OCR Confidence,OCR Confidence: 0.01
+131,Invalid Plate Format,(3or4}] |
+131,Low OCR Confidence,OCR Confidence: 0.02
+131,Invalid Plate Format,T
+132,Low OCR Confidence,OCR Confidence: 0.01
+132,Invalid Plate Format,Wnvc]
+133,Low OCR Confidence,OCR Confidence: 0.04
+133,Invalid Plate Format,TuetuH
+134,Low OCR Confidence,OCR Confidence: 0.01
+134,Invalid Plate Format,7tyu611
+134,Low OCR Confidence,OCR Confidence: 0.10
+134,Invalid Plate Format,5a
+134,No Helmet,Helmet not detected
+135,Invalid Plate Format,C
+135,No Helmet,Helmet not detected
+136,No Helmet,Helmet not detected
+137,Low OCR Confidence,OCR Confidence: 0.21
+137,Invalid Plate Format,C
+137,No Helmet,Helmet not detected
+138,Low OCR Confidence,OCR Confidence: 0.18
+138,Invalid Plate Format,1
+139,Low OCR Confidence,OCR Confidence: 0.04
+139,Invalid Plate Format,LS
+139,No Helmet,Helmet not detected
+141,No Helmet,Helmet not detected
+142,Low OCR Confidence,OCR Confidence: 0.27
+142,Invalid Plate Format,L
+142,Low OCR Confidence,OCR Confidence: 0.02
+142,Invalid Plate Format,Ldl
+144,No Helmet,Helmet not detected
+145,Low OCR Confidence,OCR Confidence: 0.30
+145,Invalid Plate Format,LJ
+145,No Helmet,Helmet not detected
+146,Low OCR Confidence,OCR Confidence: 0.07
+146,Invalid Plate Format,7
+147,No Helmet,Helmet not detected
+148,No Helmet,Helmet not detected
+148,No Helmet,Helmet not detected
+149,No Helmet,Helmet not detected
+149,No Helmet,Helmet not detected
+150,Low OCR Confidence,OCR Confidence: 0.10
+150,Invalid Plate Format,Z
+150,Low OCR Confidence,OCR Confidence: 0.01
+150,Invalid Plate Format,7a
+150,Low OCR Confidence,OCR Confidence: 0.02
+150,Invalid Plate Format,'~t
+150,No Helmet,Helmet not detected
+150,No Helmet,Helmet not detected
+151,No Helmet,Helmet not detected
+151,No Helmet,Helmet not detected
+152,Low OCR Confidence,OCR Confidence: 0.01
+152,Invalid Plate Format,52
+152,No Helmet,Helmet not detected
+153,Low OCR Confidence,OCR Confidence: 0.38
+153,Invalid Plate Format,F
+153,Low OCR Confidence,OCR Confidence: 0.06
+153,No Helmet,Helmet not detected
+154,No Helmet,Helmet not detected
+155,No Helmet,Helmet not detected
+156,No Helmet,Helmet not detected
+157,No Helmet,Helmet not detected
+158,Low OCR Confidence,OCR Confidence: 0.03
+158,Invalid Plate Format,5Ll
+159,Low OCR Confidence,OCR Confidence: 0.00
+159,Invalid Plate Format,Ten
+161,Low OCR Confidence,OCR Confidence: 0.18
+161,Invalid Plate Format,3
+165,Low OCR Confidence,OCR Confidence: 0.03
+165,Invalid Plate Format,40=
+167,Low OCR Confidence,OCR Confidence: 0.04
+167,Invalid Plate Format,2
+167,Low OCR Confidence,OCR Confidence: 0.11
+167,Invalid Plate Format,Innt
+169,Low OCR Confidence,OCR Confidence: 0.15
+169,Invalid Plate Format,Li
+169,Low OCR Confidence,OCR Confidence: 0.04
+169,Invalid Plate Format,Len
+170,Low OCR Confidence,OCR Confidence: 0.04
+170,Invalid Plate Format,73x
+171,Low OCR Confidence,OCR Confidence: 0.05
+171,Invalid Plate Format,Ttund
+171,Low OCR Confidence,OCR Confidence: 0.01
+171,Invalid Plate Format,EUJ
+171,Low OCR Confidence,OCR Confidence: 0.02
+171,Low OCR Confidence,OCR Confidence: 0.17
+171,Invalid Plate Format,2
+172,Low OCR Confidence,OCR Confidence: 0.01
+172,Invalid Plate Format,(etat
+173,Low OCR Confidence,OCR Confidence: 0.03
+173,Invalid Plate Format,~a
+173,Low OCR Confidence,OCR Confidence: 0.21
+173,Invalid Plate Format,Msrly
+174,Low OCR Confidence,OCR Confidence: 0.03
+174,Invalid Plate Format,3
+174,Low OCR Confidence,OCR Confidence: 0.16
+174,Invalid Plate Format,7tm
+175,Low OCR Confidence,OCR Confidence: 0.15
+175,Invalid Plate Format,Mic
+175,Low OCR Confidence,OCR Confidence: 0.19
+175,Invalid Plate Format,Tot
+176,Low OCR Confidence,OCR Confidence: 0.04
+176,Invalid Plate Format,37
+176,Low OCR Confidence,OCR Confidence: 0.00
+176,Invalid Plate Format,@ruGS
+177,Low OCR Confidence,OCR Confidence: 0.07
+177,Invalid Plate Format,toli
+177,Low OCR Confidence,OCR Confidence: 0.03
+177,Invalid Plate Format,08 0
+178,Low OCR Confidence,OCR Confidence: 0.01
+178,Invalid Plate Format,566
+178,Low OCR Confidence,OCR Confidence: 0.20
+178,Invalid Plate Format,{uum
+179,Low OCR Confidence,OCR Confidence: 0.15
+180,Low OCR Confidence,OCR Confidence: 0.03
+180,Invalid Plate Format,@uuvu
+180,Low OCR Confidence,OCR Confidence: 0.15
+180,Invalid Plate Format,Mer
+181,Low OCR Confidence,OCR Confidence: 0.38
+181,Invalid Plate Format,(nrz
+182,Low OCR Confidence,OCR Confidence: 0.00
+182,Invalid Plate Format,b6li 
+182,Low OCR Confidence,OCR Confidence: 0.15
+182,Invalid Plate Format,terti
+183,Low OCR Confidence,OCR Confidence: 0.05
+183,Invalid Plate Format,TOLt
+183,Low OCR Confidence,OCR Confidence: 0.01
+183,Invalid Plate Format,MM ~
+185,Low OCR Confidence,OCR Confidence: 0.07
+185,Invalid Plate Format,5t
+186,Low OCR Confidence,OCR Confidence: 0.01
+186,Invalid Plate Format,056c
+187,Invalid Plate Format,7
+188,Low OCR Confidence,OCR Confidence: 0.01
+188,Invalid Plate Format,Ivro 5
+188,Low OCR Confidence,OCR Confidence: 0.11
+188,Invalid Plate Format,67
+189,Low OCR Confidence,OCR Confidence: 0.23
+189,Invalid Plate Format,0
+189,Low OCR Confidence,OCR Confidence: 0.02
+189,Invalid Plate Format,Li
+190,Low OCR Confidence,OCR Confidence: 0.04
+190,Invalid Plate Format,L~
+194,Invalid Plate Format,5
+197,Low OCR Confidence,OCR Confidence: 0.10
+197,Invalid Plate Format,Dr
+199,Low OCR Confidence,OCR Confidence: 0.15
+199,Invalid Plate Format,G7
+200,Low OCR Confidence,OCR Confidence: 0.26
+200,Invalid Plate Format,47
+204,Low OCR Confidence,OCR Confidence: 0.07
+204,Invalid Plate Format,6tzl
+205,Low OCR Confidence,OCR Confidence: 0.02
+205,Invalid Plate Format,Dt
+207,Low OCR Confidence,OCR Confidence: 0.32
+207,Invalid Plate Format,5Z
+208,Low OCR Confidence,OCR Confidence: 0.14
+208,Invalid Plate Format,67
+209,Low OCR Confidence,OCR Confidence: 0.02
+209,Invalid Plate Format,F
+209,Low OCR Confidence,OCR Confidence: 0.27
+209,Invalid Plate Format,54
+209,Low OCR Confidence,OCR Confidence: 0.31
+209,Invalid Plate Format,3
+211,Low OCR Confidence,OCR Confidence: 0.39
+211,Invalid Plate Format,5zl
+213,Low OCR Confidence,OCR Confidence: 0.08
+213,Invalid Plate Format,5Z
+214,Invalid Plate Format,5
+214,Invalid Plate Format,7
+214,No Helmet,Helmet not detected
+215,Low OCR Confidence,OCR Confidence: 0.35
+215,Invalid Plate Format,57
+215,Low OCR Confidence,OCR Confidence: 0.27
+215,Invalid Plate Format,6
+215,No Helmet,Helmet not detected
+216,Low OCR Confidence,OCR Confidence: 0.01
+216,Invalid Plate Format,Aee
+216,Low OCR Confidence,OCR Confidence: 0.01
+216,Invalid Plate Format,O
+216,No Helmet,Helmet not detected
+217,Low OCR Confidence,OCR Confidence: 0.29
+217,Invalid Plate Format,5
+217,Low OCR Confidence,OCR Confidence: 0.01
+217,Invalid Plate Format,Donlr
+217,Low OCR Confidence,OCR Confidence: 0.06
+217,Invalid Plate Format,0
+217,No Helmet,Helmet not detected
+218,Low OCR Confidence,OCR Confidence: 0.24
+218,Invalid Plate Format,53
+218,Low OCR Confidence,OCR Confidence: 0.00
+218,Invalid Plate Format,Ilolt
+218,Low OCR Confidence,OCR Confidence: 0.05
+218,Invalid Plate Format,O
+219,Low OCR Confidence,OCR Confidence: 0.10
+219,Invalid Plate Format,56
+219,Invalid Plate Format,6
+219,No Helmet,Helmet not detected
+220,Low OCR Confidence,OCR Confidence: 0.22
+220,Invalid Plate Format,C
+220,Low OCR Confidence,OCR Confidence: 0.01
+220,Invalid Plate Format,'eto'
+220,Low OCR Confidence,OCR Confidence: 0.09
+220,Invalid Plate Format,5
+221,Low OCR Confidence,OCR Confidence: 0.08
+221,Invalid Plate Format,Fz
+221,Low OCR Confidence,OCR Confidence: 0.34
+221,Invalid Plate Format,D
+221,Low OCR Confidence,OCR Confidence: 0.11
+221,Invalid Plate Format,6
+221,No Helmet,Helmet not detected
+222,Low OCR Confidence,OCR Confidence: 0.07
+222,Invalid Plate Format,'Cld
+222,Invalid Plate Format,7
+222,No Helmet,Helmet not detected
+223,Low OCR Confidence,OCR Confidence: 0.04
+223,Invalid Plate Format,F
+223,Low OCR Confidence,OCR Confidence: 0.02
+223,Invalid Plate Format,crdlt
+223,Low OCR Confidence,OCR Confidence: 0.12
+223,Invalid Plate Format,7m
